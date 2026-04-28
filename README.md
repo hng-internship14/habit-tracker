@@ -37,7 +37,7 @@ I followed a systematic engineering workflow to ensure every requirement was met
 
 I have provided all the necessary deliverables for this submission:
 
-- **Live Deployed URL**: [Insert your Vercel URL here]
+- **Live Deployed URL**: [https://habit-tracker-woad-five.vercel.app]
 - **GitHub Repository**: [https://github.com/hng-internship14/habit-tracker](https://github.com/hng-internship14/habit-tracker)
 - **Automated Tests**: Included in the `/tests` directory.
 - **Coverage Report**: Generated using Vitest and available after running tests.
