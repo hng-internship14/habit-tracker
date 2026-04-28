@@ -41,7 +41,7 @@ I have provided all the necessary deliverables for this submission:
 - **GitHub Repository**: [https://github.com/hng-internship14/habit-tracker](https://github.com/hng-internship14/habit-tracker)
 - **Automated Tests**: Included in the `/tests` directory.
 - **Coverage Report**: Generated using Vitest and available after running tests.
-- **Demo Video**: [Insert link to your 2-minute demo video here]
+- **Demo Video**: [https://youtube.com/shorts/s7680neHA_o?si=PJt6d30E4J9wg8qA]
 
 ---
 
